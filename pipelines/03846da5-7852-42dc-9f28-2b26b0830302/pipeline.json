@@ -1,0 +1,17 @@
+{
+  "id": "03846da5-7852-42dc-9f28-2b26b0830302",
+  "name": "breakme",
+  "destination": "227f7dbd-8832-4650-b83f-a2773979e989",
+  "schedule": {
+    "enabled": false,
+    "cron": null
+  },
+  "properties": {},
+  "alerts": {
+    "send_email_notification": false,
+    "notify_email_subject": null,
+    "notify_email_to": null,
+    "email_error_only": false
+  },
+  "labels": []
+}

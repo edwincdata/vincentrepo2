@@ -1,0 +1,26 @@
+{
+  "id": "740b5fbc-f63e-4dcf-ad11-b0a7d88dbf1c",
+  "display_name": "sql_sf",
+  "name": "sql_sf",
+  "connector": {
+    "name": "CData SQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "localhost",
+    "AuthScheme": "Password",
+    "Database": "dest",
+    "Password": "SECURE:caPodfEzu8pihQMopRvM+p5PpU0TqBO4v/Gor94Tssy1OuLg26rh2Hg5LAr38RoveE3xvXHw6R9r+0scHeOc",
+    "Port": "1433",
+    "Encrypt": "False",
+    "UseSSH": "False",
+    "User": "sa"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

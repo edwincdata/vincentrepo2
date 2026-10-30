@@ -1,0 +1,25 @@
+{
+  "id": "243a56c2-acf9-4b0d-831a-d2db5daeeadf",
+  "display_name": "Salesforce",
+  "name": "salesforce",
+  "connector": {
+    "name": "CData Salesforce",
+    "version": "25.0.9624.0"
+  },
+  "properties": {
+    "AuthScheme": "OAuthPKCE",
+    "OAuthTokenTimestamp": "1785509578152",
+    "OAuthExpiresIn": "86400",
+    "OAuthServerURL": "https://nsoftware-dev-ed.my.salesforce.com/services/Soap/c/{version}/00D300000006JDF",
+    "Scope": "refresh_token api",
+    "OAuthRefreshToken": "SECURE:CqTvmX2lbdoDFxGdL9B2vIA9SmhMP83pIm3MG1r+ptKKqHR3SI6+Q5VtR6WUrh+psmW10OefwGrSihdtmFze7V+PvNFc3e1Ze2anL6FNdhOxUWyd6AfIQ1k2ArsJzy3lAWnokYUDk0i91n8XVqOZZ4H1fflZvTlLo8nHRsom+8wfiWtI8vyF",
+    "OAuthAccessToken": "SECURE:YHhTVzBdmuo3ZfR42SGOrS+Gb1WoUORCNG+bXr6TTqlbwspib4p9nVqRWz9UKuSPifjnNL6nxxP6DdLTbIA4f3JoWxyY2s8Puxl01K+bfZFZhqkZw1NUpj2QEHqDABGxrX2tdKvCp5BSNzgiLaGgOx3aHgM/op9M/J4sN6cXTBCSrx8fTJgC1AXn3VSBQ07yoaxNFOgiM+FHFsVR/ZDVpg=="
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 5,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}
